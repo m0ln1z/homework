@@ -16,5 +16,4 @@ jobs:
         python-version: '3.12.7' 
 
     - name: Run Python Script
-      run: work.py}
-
+      run: python work.py
